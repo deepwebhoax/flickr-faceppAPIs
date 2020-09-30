@@ -1,6 +1,3 @@
-<h1>Database</h1>
-<p>sqlite3 database. It contains two tables: faces and photos. </p>
-
 <h1>Scripts</h1>
 <p>
  <p>1. album_download.py
@@ -10,5 +7,7 @@
 <p> 3. twelve_threads.py
     Multithreading of the above functions.</p>
  </p>
-
+ 
+<h1>Database</h1>
+<p>sqlite3 database. It contains two tables: photos (flickr photo url) and faces (faces on a photo) . </p>
 
